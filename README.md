@@ -86,8 +86,7 @@ Using Power BI Desktop, a report named 'Connected Office – Device Monitoring' 
 
 
 ### Power BI
-* [UiPath Website](https://www.uipath.com)
-* [Turn your data into immediate impact](https://powerbi.microsoft.com/en-cy/
+* [Turn your data into immediate impact](https://powerbi.microsoft.com/en-cy/)
 * [Go from data to insight to action with Power BI Desktop](https://powerbi.microsoft.com/en-in/desktop/)
 * [Getting started with Power BI](https://powerbi.microsoft.com/en-in/getting-started-with-power-bi/)
 * [Power BI Personal Portal](https://app.powerbi.com/home?cmpid=pbi-home-body-sta-free&noSignUpCheck=1)
